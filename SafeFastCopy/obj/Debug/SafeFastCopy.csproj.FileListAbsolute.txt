@@ -1,0 +1,11 @@
+C:\Users\Owner\Desktop\HOME\Home\PROYECTOS\.NET\SafeFastCopy\SafeFastCopy\bin\Debug\SafeFastCopy.exe.config
+C:\Users\Owner\Desktop\HOME\Home\PROYECTOS\.NET\SafeFastCopy\SafeFastCopy\bin\Debug\SafeFastCopy.exe
+C:\Users\Owner\Desktop\HOME\Home\PROYECTOS\.NET\SafeFastCopy\SafeFastCopy\bin\Debug\SafeFastCopy.pdb
+C:\Users\Owner\Desktop\HOME\Home\PROYECTOS\.NET\SafeFastCopy\SafeFastCopy\obj\Debug\SafeFastCopy.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\HOME\Home\PROYECTOS\.NET\SafeFastCopy\SafeFastCopy\obj\Debug\SafeFastCopy.csproj.SuggestedBindingRedirects.cache
+C:\Users\Owner\Desktop\HOME\Home\PROYECTOS\.NET\SafeFastCopy\SafeFastCopy\obj\Debug\SafeFastCopy.Form1.resources
+C:\Users\Owner\Desktop\HOME\Home\PROYECTOS\.NET\SafeFastCopy\SafeFastCopy\obj\Debug\SafeFastCopy.Properties.Resources.resources
+C:\Users\Owner\Desktop\HOME\Home\PROYECTOS\.NET\SafeFastCopy\SafeFastCopy\obj\Debug\SafeFastCopy.csproj.GenerateResource.cache
+C:\Users\Owner\Desktop\HOME\Home\PROYECTOS\.NET\SafeFastCopy\SafeFastCopy\obj\Debug\SafeFastCopy.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\HOME\Home\PROYECTOS\.NET\SafeFastCopy\SafeFastCopy\obj\Debug\SafeFastCopy.exe
+C:\Users\Owner\Desktop\HOME\Home\PROYECTOS\.NET\SafeFastCopy\SafeFastCopy\obj\Debug\SafeFastCopy.pdb
